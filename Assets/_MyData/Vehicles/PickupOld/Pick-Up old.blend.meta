@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: b3f37119f3c9a9d48bd476a258f600bd
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Cube
+    100004: Cubo
+    100006: Cubo.001
+    100008: Cubo.002
+    100010: Cubo.003
+    100012: Cubo.004
+    100014: "C\xEDrculo"
+    100016: "C\xEDrculo.001"
+    100018: "C\xEDrculo.002"
+    100020: "C\xEDrculo.003"
+    100022: "C\xEDrculo.004"
+    100024: "C\xEDrculo.005"
+    100026: "C\xEDrculo.006"
+    100028: "C\xEDrculo.007"
+    100030: Lamp
+    100032: //RootNode
+    100034: Plane
+    100036: Plano
+    400000: Camera
+    400002: Cube
+    400004: Cubo
+    400006: Cubo.001
+    400008: Cubo.002
+    400010: Cubo.003
+    400012: Cubo.004
+    400014: "C\xEDrculo"
+    400016: "C\xEDrculo.001"
+    400018: "C\xEDrculo.002"
+    400020: "C\xEDrculo.003"
+    400022: "C\xEDrculo.004"
+    400024: "C\xEDrculo.005"
+    400026: "C\xEDrculo.006"
+    400028: "C\xEDrculo.007"
+    400030: Lamp
+    400032: //RootNode
+    400034: Plane
+    400036: Plano
+    2000000: Camera
+    2100000: Material.002
+    2100002: Material.005
+    2100004: No Name
+    2100006: Material.004
+    2100008: Material.003
+    2100010: Material
+    2100012: Material.006
+    2100014: Material.001
+    2300000: Cube
+    2300002: Cubo
+    2300004: Cubo.001
+    2300006: Cubo.002
+    2300008: Cubo.003
+    2300010: Cubo.004
+    2300012: "C\xEDrculo"
+    2300014: "C\xEDrculo.001"
+    2300016: "C\xEDrculo.002"
+    2300018: "C\xEDrculo.003"
+    2300020: "C\xEDrculo.004"
+    2300022: "C\xEDrculo.005"
+    2300024: "C\xEDrculo.006"
+    2300026: "C\xEDrculo.007"
+    2300028: Plane
+    2300030: Plano
+    3300000: Cube
+    3300002: Cubo
+    3300004: Cubo.001
+    3300006: Cubo.002
+    3300008: Cubo.003
+    3300010: Cubo.004
+    3300012: "C\xEDrculo"
+    3300014: "C\xEDrculo.001"
+    3300016: "C\xEDrculo.002"
+    3300018: "C\xEDrculo.003"
+    3300020: "C\xEDrculo.004"
+    3300022: "C\xEDrculo.005"
+    3300024: "C\xEDrculo.006"
+    3300026: "C\xEDrculo.007"
+    3300028: Plane
+    3300030: Plano
+    4300000: "C\xEDrculo.007"
+    4300002: "C\xEDrculo.006"
+    4300004: "C\xEDrculo.005"
+    4300006: "C\xEDrculo.004"
+    4300008: Plano
+    4300010: "C\xEDrculo.003"
+    4300012: "C\xEDrculo.002"
+    4300014: Cubo.004
+    4300016: Cubo.003
+    4300018: Cubo.002
+    4300020: "C\xEDrculo.001"
+    4300022: "C\xEDrculo"
+    4300024: Cubo.001
+    4300026: Cubo
+    4300028: Plane
+    4300030: Cube
+    10800000: Lamp
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
